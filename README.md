@@ -1,4 +1,4 @@
-# BacktrackingemC
+# Backtracking em C
 
 Implementação clássica do algoritmo de Backtracking para resolução de labirintos, com visualização gráfica via terminal.
 
